@@ -1,4 +1,4 @@
-<body style="background-image:url("https://www.pixiv.net/en/artworks/83576703");">
+<body style="background:white;">
 <h1 align="center">Hi 👋, I'm tricticle</h1>
 <h3 align="center">A passionate developer from .in/mumbai</h3>
 
