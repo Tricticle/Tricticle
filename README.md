@@ -1,4 +1,4 @@
-<img src="https://www.pixiv.net/en/artworks/99407492" style="border-radius:40px; object-fit:cover;" height="100px" wodth="100px"></img>
+<img src="https://drive.google.com/file/d/1Qu_UbiQYbe1boPhnJKFdcbVdq9nXPKRU/view?usp=sharing" style="border-radius:40px; object-fit:cover;" height="100px" wodth="100px"></img>
 <h1 align="center">Hi 👋, I'm tricticle</h1>
 <h3 align="center">A passionate developer from .in/mumbai</h3>
 
