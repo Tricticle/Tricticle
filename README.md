@@ -1,4 +1,4 @@
-<img src="https://w0.peakpx.com/wallpaper/204/749/HD-wallpaper-hu-tao-new-art-genshin-impact.jpg" style="border-radius:40px; object-fit:cover;" height="100px" wodth="100px"></img>
+<img src="https://i.pinimg.com/736x/ad/9c/c4/ad9cc4ca622ed6830d946c0e01594232.jpg" style="display:flex;" height="60%" width="60%" align="center"></img>
 <h1 align="center">Hi 👋, I'm tricticle</h1>
 <h3 align="center">A passionate developer from .in/mumbai</h3>
 
