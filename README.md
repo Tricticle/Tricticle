@@ -1,6 +1,6 @@
-<body style="background-image:https://www.pixiv.net/en/artworks/69538205;">
+<body style="background-image:url("https://www.pixiv.net/en/artworks/83576703");">
 <h1 align="center">Hi 👋, I'm tricticle</h1>
-<h3 align="center">A passionate frontend developer from .in/mumbai</h3>
+<h3 align="center">A passionate developer from .in/mumbai</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tricticle&label=Profile%20views&color=0e75b6&style=flat" alt="tricticle" /> </p>
 
