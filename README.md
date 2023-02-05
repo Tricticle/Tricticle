@@ -1,4 +1,4 @@
-<body style="background:white;">
+<img src="https://www.pixiv.net/en/artworks/99407492" style="border-radius:40px; object-fit:cover;" height="100px" wodth="100px"></img>
 <h1 align="center">Hi 👋, I'm tricticle</h1>
 <h3 align="center">A passionate developer from .in/mumbai</h3>
 
@@ -26,4 +26,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tricticle&show_icons=true&locale=en" alt="tricticle" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tricticle&" alt="tricticle" /></p>
-<body>
