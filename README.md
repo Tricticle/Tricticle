@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/736x/ad/9c/c4/ad9cc4ca622ed6830d946c0e01594232.jpg" style="display:flex;" height="60%" width="60%" align="center"></img>
+<img src="https://i.redd.it/imh10oipinga1.jpg" style="border-radius:3px;" height="100%" width="100%" align="center"></img>
 <h1 align="center">Hi 👋, I'm tricticle</h1>
 <h3 align="center">A passionate developer from .in/mumbai</h3>
 
