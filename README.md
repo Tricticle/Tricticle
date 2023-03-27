@@ -4,10 +4,10 @@
   </head>
   </body>
 <div align="center" padding="20px">
-<img class="hutao" src="https://raw.githubusercontent.com/tricticle/tricticle/main/hutao.png" height="100px" width="100px" border-radius="90%" object-fit="cover"></img>
+<img class="hutao"align="center" src="https://raw.githubusercontent.com/tricticle/tricticle/main/hutao.png" height="100px" width="100px" border-radius="90%" object-fit="cover"></img>
 </div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tricticle&show_icons=true&locale=en&layout=compact" alt="tricticle" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tricticle&show_icons=true&locale=en&layout=compact" alt="tricticle" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tricticle&show_icons=true&locale=en" alt="tricticle" /></p>
 
