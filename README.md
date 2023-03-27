@@ -3,7 +3,7 @@
   <link rel="stylesheet" href="https://github.com/tricticle/tricticle/blob/main/style.css">
   </head>
   </body>
-<div align="center">
+<div align="center" padding="20px">
 <img class="hutao" src="https://raw.githubusercontent.com/tricticle/tricticle/main/hutao.png" height="100px" width="100px" align="center" object-fit="cover"></img>
 </div>
 
