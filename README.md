@@ -4,7 +4,7 @@
 
 I'm tricticle, a passionate web developer/designer based in Mumbai. I love to MERN-Stack web apps in my free time.
 
-- 🌱 I’m currently learning Next.js.
+- 🌱 I’m currently learning Next.js & Kotlin.
 - 👯 I’m looking to collaborate on Full-Stack web apps.
 - 📫 How to reach me: [@tricticle](https://zaap.bio/tricticle).
 - ⚡ Fun fact: Quick learner.
